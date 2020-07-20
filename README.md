@@ -11,8 +11,8 @@ Create a script that will do the following:
 * As output – link to public github repo with script ✔️
 
 Expectations:
-* Code should be functional and meet all requirements
-* Code should be original work
+* Code should be functional and meet all requirements ✔️
+* Code should be original work ✔️
 * Use comments in your code to explain what actions you are performing and why ✔️
 
 ## Quick start
