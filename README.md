@@ -1,7 +1,7 @@
 <h1 style="text-align:center;">Test task for Malwarebytes</h1>
 
 
-![NodeJS](nodejs.png){:height="50%" width="50%"}
+<img src="nodejs.png" width="921" height="564"/>
 
 ## Quick start
 
