@@ -33,5 +33,5 @@ inquirer.prompt([{
         }
     ]
 }]).then(function(answers) {
-    console.log(chalk.bgGreen('Thank you, come again! Check the code at https://github.com/ringfungi/fibonacci-mb/));
+    console.log(chalk.bgGreen('Thank you, come again! Check the code at https://github.com/ringfungi/fibonacci-mb/'));
 });
